@@ -1,26 +1,30 @@
-# Hi there, I'm WLY 👋
+# Hi there, I'm Yucheng Wang 👋
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile. I am an electronic information student at Sun Yat-sen University, interested in efficient AI systems, hardware acceleration, and open-source research projects.
 
-I am exploring **AI systems, embedded development, and open-source projects**. I enjoy turning ideas into practical experiments and documenting what I learn along the way.
+I enjoy connecting algorithms, systems, and hardware to turn research ideas into practical implementations.
 
-## What I'm working on
+## Research interests
 
-- Building and studying AI inference and engineering projects
-- Exploring the intersection of software, hardware, and intelligent systems
-- Learning through hands-on projects and open-source collaboration
+- Efficient LLM inference and AI systems
+- FPGA acceleration and embedded deployment
+- GPU kernels and high-performance computing
+- Reproducible engineering for research prototypes
 
-## Selected projects
+## Selected work
 
-- **AI systems & deployment** — experiments, tools, and engineering notes
-- **Embedded development** — hardware/software integration and prototypes
+- [**Ultra-BitNet**](https://github.com/silence-breaker/Ultra-BitNet) — an open-source BitNet inference accelerator for the AXU3EGB board, combining FPGA RTL/HLS kernels, bare-metal and Linux runtimes, host-side transport, and model tooling.
+- [**Medusa**](https://github.com/wlycf2/Medusa) — a research codebase for accelerating serverless LLM inference through materialization.
+- [**GEMM-Kernel**](https://github.com/wlycf2/GEMM-Kernel) — CUDA GEMM kernel experiments focused on high-performance linear algebra.
+- [**Materials**](https://github.com/wlycf2/Materials) — technical notes and learning materials.
 
-## Personal homepage
+## Personal website
 
-> Coming soon: [My personal homepage](YOUR_PERSONAL_HOMEPAGE_URL)
+[Visit my personal homepage](https://wlycf2.github.io/)
 
 ## Connect
 
 - GitHub: [@wlycf2](https://github.com/wlycf2)
+- University: [Sun Yat-sen University](https://www.sysu.edu.cn/)
 
-Thanks for visiting!
+Thanks for visiting. Feel free to explore the repositories and follow along with my work.
