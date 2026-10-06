@@ -14,8 +14,6 @@ I enjoy connecting algorithms, systems, and hardware to turn research ideas into
 ## Selected work
 
 - [**Ultra-BitNet**](https://github.com/silence-breaker/Ultra-BitNet) — an open-source BitNet inference accelerator for the AXU3EGB board, combining FPGA RTL/HLS kernels, bare-metal and Linux runtimes, host-side transport, and model tooling.
-- [**Medusa**](https://github.com/wlycf2/Medusa) — a research codebase for accelerating serverless LLM inference through materialization.
-- [**GEMM-Kernel**](https://github.com/wlycf2/GEMM-Kernel) — CUDA GEMM kernel experiments focused on high-performance linear algebra.
 - [**Materials**](https://github.com/wlycf2/Materials) — technical notes and learning materials.
 
 
