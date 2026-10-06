@@ -18,9 +18,6 @@ I enjoy connecting algorithms, systems, and hardware to turn research ideas into
 - [**GEMM-Kernel**](https://github.com/wlycf2/GEMM-Kernel) — CUDA GEMM kernel experiments focused on high-performance linear algebra.
 - [**Materials**](https://github.com/wlycf2/Materials) — technical notes and learning materials.
 
-## Personal website
-
-[Visit my personal homepage](https://wlycf2.github.io/)
 
 ## Connect
 
